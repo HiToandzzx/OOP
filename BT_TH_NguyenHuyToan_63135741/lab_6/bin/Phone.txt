@@ -1,0 +1,18 @@
+ip011
+Iphone 11 64GB
+103900
+C:\Users\Admin\Desktop\S\OOP\BT_TH_NguyenHuyToan_63135741\lab_6\images_6.3\ip11.png
+ip012
+Iphone 12 64GB
+14590
+C:\Users\Admin\Desktop\S\OOP\BT_TH_NguyenHuyToan_63135741\lab_6\images_6.3\ip12.png
+ip013
+Iphone 13 128GB
+17090
+C:\Users\Admin\Desktop\S\OOP\BT_TH_NguyenHuyToan_63135741\lab_6\images_6.3\ip13.png
+ip014
+Iphone 14 Pro Max 128GB
+26390
+C:\Users\Admin\Desktop\S\OOP\BT_TH_NguyenHuyToan_63135741\lab_6\images_6.3\ip14.png
+
+

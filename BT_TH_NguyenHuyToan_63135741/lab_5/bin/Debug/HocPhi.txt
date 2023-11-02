@@ -1,0 +1,3 @@
+63135741;Nguyen Huy Toan;14/03/2003;Ho Ngheo;500000
+63130565;Pham Ba Huy Khang;05/12/2003;Can Ngheo;400000
+63131842;Truong Quoc Thien;22/07/2003;Thuong;350000

@@ -1,0 +1,3 @@
+C:\Users\Admin\Desktop\S\OOP\BT_TH_NguyenHuyToan_63135741\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\S\OOP\BT_TH_NguyenHuyToan_63135741\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\S\OOP\BT_TH_NguyenHuyToan_63135741\test\obj\Debug\test.csproj.CoreCompileInputs.cache

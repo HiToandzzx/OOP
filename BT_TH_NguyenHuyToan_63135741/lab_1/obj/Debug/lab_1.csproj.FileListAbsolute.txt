@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\S\OOP\lab_1\lab_1\obj\Debug\lab_1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\S\OOP\lab_1\lab_1\obj\Debug\lab_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\S\OOP\lab_1\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\S\OOP\lab_1\lab_1\bin\Debug\lab_1.exe.config
+C:\Users\Admin\Desktop\S\OOP\lab_1\lab_1\bin\Debug\lab_1.exe
+C:\Users\Admin\Desktop\S\OOP\lab_1\lab_1\bin\Debug\lab_1.pdb
+C:\Users\Admin\Desktop\S\OOP\lab_1\lab_1\obj\Debug\lab_1.exe
+C:\Users\Admin\Desktop\S\OOP\lab_1\lab_1\obj\Debug\lab_1.pdb
+C:\Users\Admin\Desktop\S\OOP\lab1_NguyenHuyToan_63135741\lab_1\bin\Debug\lab_1.exe.config
+C:\Users\Admin\Desktop\S\OOP\lab1_NguyenHuyToan_63135741\lab_1\bin\Debug\lab_1.exe
+C:\Users\Admin\Desktop\S\OOP\lab1_NguyenHuyToan_63135741\lab_1\bin\Debug\lab_1.pdb
+C:\Users\Admin\Desktop\S\OOP\lab1_NguyenHuyToan_63135741\lab_1\obj\Debug\lab_1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\S\OOP\lab1_NguyenHuyToan_63135741\lab_1\obj\Debug\lab_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\S\OOP\lab1_NguyenHuyToan_63135741\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\S\OOP\lab1_NguyenHuyToan_63135741\lab_1\obj\Debug\lab_1.exe
+C:\Users\Admin\Desktop\S\OOP\lab1_NguyenHuyToan_63135741\lab_1\obj\Debug\lab_1.pdb
